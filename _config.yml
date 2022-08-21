@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ankur Lahiry"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ankur Lahiry"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,36 +80,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Ankur Lahiry"
+  avatar           : "ankur_lahiry.jpg"
+  bio              : "Doctoral Instructional Assistant || CS-PhD || Texas State University, \n San Marcos, Texas"
+  employer         : # ""
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=JKt4eMUAAAAJ"
+  email            : "vty8@txstate.edu"
+  researchgate     : "https://www.researchgate.net/profile/Ankur-Lahiry"
   uri              :
-  bitbucket        :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : #"https://www.facebook.com/ankur.lahiry/"
   foursquare       :
-  github           : "academicpages"
+  github           : "AnkurLahiry"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "8475638/ankur-lahiry"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AnkurLahiry"
   vine             :
   weibo            :
   xing             :
