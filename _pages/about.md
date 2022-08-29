@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello, this is Ankur Lahiry, a PhD student in [Department of Computer Science](https://cs.txstate.edu) at [Texas State University](https://www.txst.edu). I have been working in Per4ML under the supervision of Dr. Tanzima Islam
+Hello, this is Ankur Lahiry, a PhD student in [Department of Computer Science](https://cs.txstate.edu) at [Texas State University](https://www.txst.edu). I have been working in Per4ML under the supervision of [Dr. Tanzima Islam](https://www.tanzimaislam.com/home). 
+
+My research interest is based on Machine Learning and High Performance Computing. 
+
+Beside working as a researcher, I am also working as a Doctoral Teaching assistant at TXSTATE.
+
+Before starting my PhD career, I completed my B.Sc. in Computer Science from Bangladesh University of Engineering & Technology (BUET) in 2017. Upon completing my graduation, I was involved in Software Industry and worked as a Software Developer in different start-ups both in Bangladesh and the USA.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
