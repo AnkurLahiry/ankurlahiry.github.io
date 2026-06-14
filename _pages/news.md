@@ -11,42 +11,48 @@ author_profile: true
 .news-table {
   width: 100%;
   border-collapse: collapse;
+  border: none !important;
   margin-top: 0.5em;
   font-family: 'DM Sans', sans-serif;
 }
-.news-table tr {
-  border: none;
-  vertical-align: top;
+.news-table tr,
+.news-table td,
+.news-table th {
+  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
 }
 .news-label {
   width: 160px;
   min-width: 140px;
-  padding: 14px 18px 14px 0;
+  padding: 16px 20px 16px 0;
   font-family: 'DM Serif Display', serif;
-  font-size: 0.85em;
+  font-size: 1em;
   color: #2c2c2c;
   text-align: right;
   line-height: 1.4;
+  vertical-align: top;
 }
 .news-date {
-  width: 84px;
-  min-width: 76px;
-  padding: 14px 16px;
+  width: 90px;
+  min-width: 80px;
+  padding: 18px 18px 16px;
   font-family: 'DM Mono', monospace;
-  font-size: 0.75em;
-  font-weight: 400;
+  font-size: 0.88em;
   color: #aaa;
   white-space: nowrap;
   text-align: left;
-  padding-top: 16px;
+  vertical-align: top;
 }
 .news-content {
-  padding: 14px 0;
+  padding: 16px 0;
   font-family: 'DM Sans', sans-serif;
-  font-size: 0.9em;
+  font-size: 1em;
   font-weight: 300;
-  line-height: 1.7;
+  line-height: 1.75;
   color: #444;
+  vertical-align: top;
 }
 .news-content p {
   margin: 0;
