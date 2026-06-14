@@ -1,0 +1,46 @@
+# News / Achievements
+# Each item has:
+#   date: "Mon YYYY"   — shown on the left
+#   content: "..."     — shown on the right (Markdown supported)
+
+- date: "Apr 2026"
+  content: "New preprint: [**COMPASS: A Unified Decision-Intelligence System for Navigating Performance Trade-off in HPC**](https://arxiv.org/abs/2604.22688)"
+
+- date: "Oct 2025"
+  content: "New preprint: [**A Distributed Framework for Causal Modeling of Performance Variability in GPU Traces**](https://arxiv.org/abs/2510.18300)"
+
+- date: "Jun 2025"
+  content: "New preprint: [**WANDER: An Explainable Decision-Support Framework for HPC**](https://arxiv.org/abs/2506.04049)"
+
+- date: "Jun 2025"
+  content: "New preprint: [**Scalable GPU Performance Variability Analysis Framework**](https://arxiv.org/abs/2506.20674)"
+
+- date: "Jul 2024"
+  content: "Paper published at **IEEE COMPSAC 2024**: [Reimagine Application Performance as a Graph: Novel Graph-Based Method for Performance Anomaly Classification in HPC](https://ieeexplore.ieee.org/document/10633643/)"
+
+- date: "Dec 2023"
+  content: "Paper published at **ICMLA 2023**: [Novel Representation Learning Technique Using Graphs for Performance Analytics](https://ieeexplore.ieee.org/document/10460066/)"
+
+- date: "Nov 2023"
+  content: "Paper published at **SC'23**: [Graph Based Anomaly Detection in Chimbuko: Feasible or Fallible?](https://sc23.supercomputing.org/proceedings/tech_poster/tech_poster_pages/rpost184.html)"
+
+- date: "Jun 2023"
+  content: "Started **Summer Research Internship** at Brookhaven National Laboratory (BNL), Upton, New York."
+
+- date: "Aug 2022"
+  content: "Started **Ph.D. in Computer Science** at Texas State University, San Marcos, Texas."
+
+- date: "Feb 2022"
+  content: "Joined **DeshiPay (DataBird)** as Software Engineer — led development of secure mobile payment systems and scalable iOS infrastructure, Dhaka, Bangladesh."
+
+- date: "July 2020"
+  content: "Joined **Ridmik Labs (DataBird)** as Software Engineer — contributed to large-scale real-time communication platforms using WebRTC and XMPP, Dhaka, Bangladesh."
+
+- date: "June 2019"
+  content: "Joined **Prefeex Ltd.** as Senior Software Engineer — led development of a scalable restaurant reservation platform and mobile application, Dhaka, Bangladesh."
+
+- date: "April 2017"
+  content: "Joined **iPay Systems Ltd.** as Software Engineer — developed secure digital payment applications and built the iPay SDK for third-party integrations, Dhaka, Bangladesh."
+
+- date: "February 2017"
+  content: "Completed **B.SC. in Computer Science and Engineering** from Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh."
