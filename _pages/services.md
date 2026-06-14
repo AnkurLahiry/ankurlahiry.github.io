@@ -1,14 +1,14 @@
 ---
 layout: archive
 permalink: /services/
-title: "Services"
+title: "Personal Interests"
 author_profile: true
 redirect_from:
   - /wordpress/services/
 ---
 
-I love different type of sports the most. I spend lot of my times watching in Cricket, Football, Tennis. 
+I am passionate about different types of sports. I spend a lot of my time watching Cricket, Football, and Tennis.
 
-Beside my sports fantacy, I love gardening a lot. I have a small garden developed and nursed in my home at Bangladesh.
+Alongside sports, I love gardening. I have a small garden that I developed and nurtured at my home in Bangladesh.
 
-I love travelling, though I didn't have travelled outside Bangladesh. In my bucket, I have kept Bali (Indonesia), Maldives, Tenerife Island (Spain)..
+I also love travelling. I am looking forward to visiting Bali (Indonesia), the Maldives, and Tenerife Island (Spain) in the future.

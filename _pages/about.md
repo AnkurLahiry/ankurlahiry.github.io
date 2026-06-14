@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wecome to my homepage"
+title: "Welcome to my homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -77,7 +77,7 @@ I aim to contribute to high-impact research that drives innovation in **HPC, edg
   - Encouraged active learning by fostering technical discussions and peer-to-peer problem solving.
 
 
-- **Aug 2022 – Present:** Ph.D. in Computer Science, Texas State University (CGPA 4.00 out of 4.00 as of Spring 2025)
+- **Aug 2022 – Present:** Ph.D. in Computer Science, Texas State University (CGPA: 3.92 / 4.00; Expected Graduation: Summer 2027)
 
 - **May 2012 – Feb 2017:** B.Sc. in Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET). (CGPA 3.00 out of 4.00)
 
