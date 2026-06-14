@@ -18,12 +18,11 @@ I specialize in **High Performance Computing (HPC)** and **Machine Learning**, f
 
 ## 📝 Career Summary
 
-- 🎓 **Ph.D. Candidate** in Computer Science with a research focus on **HPC** and **Machine Learning** at Texas State University.  
-- 💻 **5+ years of professional experience** in software engineering, with a focus on building large-scale social communication platforms and developing secure, real-time digital payment solutions.  
+- 🎓 **Ph.D. Student** in Computer Science with a research focus on **HPC** and **Machine Learning** at Texas State University.  
 - 📈 Expertise in **graph-based modeling**, **performance analysis**, and **scalable computing systems**.  
-- 🤝 Collaborator with **U.S. Department of Energy’s Brookhaven National Laboratory (BNL)** on performance anomaly detection projects.  
-- 🤝 Collaborator with **Argonne National Laboratory (ANL)**, contributing to performance optimization and scalable system design in High Performance Computing (HPC).  
-- 🧠 Passionate about performance-aware ML systems that drive efficiency in large-scale computational environments.
+- 🤝 Collaborator with **U.S. national laboratories** on performance anomaly detection and scalable system design in High Performance Computing (HPC).  
+- 🧠 Passionate about performance-aware ML systems that drive efficiency in large-scale computational environments.  
+- 💻 **5+ years of professional experience** in software engineering, with a focus on building large-scale social communication platforms and developing secure, real-time digital payment solutions.
 
 ---
 
@@ -31,19 +30,30 @@ I specialize in **High Performance Computing (HPC)** and **Machine Learning**, f
 
 My research interests lie at the **intersection of intelligent algorithms and high-performance systems**.  
 
-- **Machine Learning (ML):**  
-  - Designing adaptive, explainable, and data-driven models.  
-  - Using ML to identify complex patterns in performance data.  
-
 - **High Performance Computing (HPC):**  
   - Analyzing and optimizing resource utilization in large-scale architectures.  
   - Developing scalable methods for anomaly detection and performance prediction.  
 
-- **Human–Computer Interaction (HCI):**  
-  - Creating intuitive interfaces to bridge human insight with ML-powered systems.  
+- **Machine Learning (ML):**  
+  - Designing adaptive, explainable, and data-driven models.  
+  - Using ML to identify complex patterns in performance data.  
 
-- **Internet of Things (IoT):**  
-  - Building intelligent, connected systems that leverage distributed computing.
+- **Graph Representation Learning:**  
+  - Building graph-based models to capture complex relationships in system performance data.  
+  - Applying GNNs for anomaly classification in HPC workflows.  
+
+- **Decision Making & Explainable AI:**  
+  - Developing decision-support systems for navigating performance trade-offs in HPC.  
+  - Making ML-driven recommendations transparent and interpretable.  
+
+- **Anomaly Detection:**  
+  - Designing early-warning systems for performance degradation in large-scale computing systems.  
+
+- **Synthetic Performance Data Generation:**  
+  - Generating realistic synthetic traces to augment training data for performance models.  
+
+- **Human–Computer Interaction (HCI):**  
+  - Creating intuitive interfaces to bridge human insight with ML-powered systems.
 
 ---
 
@@ -58,28 +68,26 @@ I aim to contribute to high-impact research that drives innovation in **HPC, edg
 
 ## 📚 Academic & Professional Background
 
-- **Spring 2023 – Present:** Doctoral Research Assistant, Per4ML Lab, Texas State University  
-  - Conducting research on performance analytics in HPC using machine learning.  
-  - Working on anomaly detection, resource utilization modeling, and scalable system optimization.  
-  - Developed a distributed data-analysis framework for GPU trace logs to reduce per-node memory pressure and enable low-latency exploration of high-dimensional trace data.  
-  - Designed a graph-based representation of application performance to enable anomaly classification using graph neural networks, capturing complex relationships among tasks and resources.  
-  - Applied real-world Nsight Compute trace data from HPC and AI workloads to diagnose memory-transfer latency effects on GPU kernel behavior, uncovering actionable performance optimization insights.  
-  - Exploring explainable ML techniques to trace anomaly-detection decisions back to low-level system behaviors (e.g., resource contention, data-transfer bottlenecks).  
-  - Collaborating with national lab partners (BNL, ANL) to validate methods on large-scale clusters and integrate results into production monitoring workflows.
+- **Aug 2022 – Present:** Ph.D. in Computer Science, Texas State University (Expected Graduation: Summer 2027)
 
-- **Fall 2022 – Spring 2023:** Doctoral Instructional Assistant, Texas State University  
-  - Assisted in Computer Architecture courses, supporting both lectures and lab sessions.  
+- **Spring 2023 – Present:** Doctoral Research Assistant, Per4ML Lab, Texas State University  
+  - Developed a unified decision-intelligence system for HPC environments to recommend performant configurations by balancing speed, cost, and reliability trade-offs with explainable outputs and uncertainty-aware ranking, scaling to traces with 1.3B samples (126 GB) and achieving up to 100× faster training and 80× faster inference than state-of-the-art generative baselines.  
+  - Design graph-based and explainable AI methods that turn complex system logs into intuitive signals, enabling early detection and diagnosis of unusual performance behavior in large-scale HPC systems.  
+  - Engineered scalable GPU log-analysis pipelines for large trace datasets using distributed partitioning and parallel processing, achieving a 67% improvement in scalability while enabling fast identification of performance variability, memory stalls, and system bottlenecks.  
+  - Collaborate with national laboratory partners to validate methods on large-scale clusters and integrate results into production monitoring workflows.
+
+- **June 2023 – August 2023:** Summer Research Intern, Brookhaven National Laboratory, Upton, New York  
+  - Worked on the Chimbuko Project, a performance analytics framework for monitoring and improving efficiency of large-scale supercomputing applications.  
+  - Developed a novel representation learning approach to automatically detect performance anomalies in complex computing workflows.  
+  - Analyzed real HPC performance data to identify inefficiencies and unusual behaviors.
+
+- **Fall 2022:** Doctoral Instructional Assistant, Texas State University  
+  - Assisted in teaching Computer Architecture (CS4310), supporting both lectures and lab sessions.  
   - Guided and mentored undergraduate students in assignments, lab work, and term projects.  
-  - Provided one-on-one and group tutoring to help students strengthen their understanding of core architecture concepts such as pipelining, memory hierarchy, and parallelism.  
   - Collaborated with faculty to design and evaluate course assignments, ensuring alignment with learning objectives.  
-  - Helped create and refine lab materials and example problems to support students’ practical learning.  
-  - Facilitated code debugging sessions, project reviews, and performance analysis exercises.  
   - Encouraged active learning by fostering technical discussions and peer-to-peer problem solving.
 
-
-- **Aug 2022 – Present:** Ph.D. in Computer Science, Texas State University (CGPA: 3.92 / 4.00; Expected Graduation: Summer 2027)
-
-- **May 2012 – Feb 2017:** B.Sc. in Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET). (CGPA 3.00 out of 4.00)
+- **May 2012 – Feb 2017:** B.Sc. in Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET)
 
 ---
 
