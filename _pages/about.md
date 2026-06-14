@@ -1,11 +1,17 @@
 ---
 permalink: /
-title: "Welcome to my homepage"
+title: "Ankur Lahiry"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
+
+Hello! I'm **Ankur Lahiry**, a Ph.D. student in the **[Department of Computer Science](https://cs.txstate.edu)** at **[Texas State University](https://www.txst.edu)**, working in the **Per4ML Lab** under the supervision of **[Dr. Tanzima Islam](https://www.tanzimaislam.com/home)**.
+
+I specialize in **High Performance Computing (HPC)** and **Machine Learning**, focusing on building intelligent, scalable, and performance-aware systems. My academic journey is driven by the goal of bridging cutting-edge research with real-world impact.
+
 ---
 
 ## 📝 Career Summary
