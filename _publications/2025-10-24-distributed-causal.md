@@ -11,6 +11,6 @@ citation: 'Ankur Lahiry, Ayush Pokharel, Banooqa Banday, Seth Ockerman, Amal Gue
 
 A distributed framework for causal modeling of performance variability in GPU traces, enabling identification of root causes behind performance anomalies in HPC workloads through causal inference over large-scale GPU trace data.
 
-[Download paper here](https://arxiv.org/abs/2510.18300)
+**Authors:** Ankur Lahiry, Ayush Pokharel, Banooqa Banday, Seth Ockerman, Amal Gueroudji, Mohammad Zaeed, Tanzima Z Islam, and Line Pouchard
 
-Recommended citation: Ankur Lahiry, Ayush Pokharel, Banooqa Banday, Seth Ockerman, Amal Gueroudji, Mohammad Zaeed, Tanzima Z Islam, and Line Pouchard. (2025). "A Distributed Framework for Causal Modeling of Performance Variability in GPU Traces." *arXiv preprint arXiv:2510.18300*.
+[Download paper here](https://arxiv.org/abs/2510.18300)

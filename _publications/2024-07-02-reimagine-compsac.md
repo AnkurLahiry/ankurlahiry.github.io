@@ -11,6 +11,6 @@ citation: 'Chase Phelps, Ankur Lahiry, Tanzima Z Islam, and Line C Pouchard. (20
 
 A novel graph-based representation of application performance for performance anomaly classification using graph neural networks. The method captures complex relationships among tasks and resources to enable effective anomaly detection in large-scale HPC systems.
 
-[View paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10633643/)
+**Authors:** Chase Phelps, Ankur Lahiry, Tanzima Z Islam, and Line C Pouchard
 
-Recommended citation: Chase Phelps, Ankur Lahiry, Tanzima Z Islam, and Line C Pouchard. (2024). "Reimagine Application Performance as a Graph: Novel Graph-Based Method for Performance Anomaly Classification in High-Performance Computing." *2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)*. IEEE, pp. 240–245.
+[View paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10633643/)

@@ -11,6 +11,6 @@ citation: 'Ankur Lahiry, Ayush Pokharel, Seth Ockerman, Amal Gueroudji, Line Pou
 
 A scalable framework for GPU log-analysis pipelines for large trace datasets using distributed partitioning and parallel processing to reduce analysis time and memory overhead. Achieves a 67% improvement in scalability while enabling fast identification of performance variability, memory stalls, and system bottlenecks across repeated HPC runs.
 
-[Download paper here](https://arxiv.org/abs/2506.20674)
+**Authors:** Ankur Lahiry, Ayush Pokharel, Seth Ockerman, Amal Gueroudji, Line Pouchard, and Tanzima Z Islam
 
-Recommended citation: Ankur Lahiry, Ayush Pokharel, Seth Ockerman, Amal Gueroudji, Line Pouchard, and Tanzima Z Islam. (2025). "Scalable GPU Performance Variability Analysis Framework." *arXiv preprint arXiv:2506.20674*.
+[Download paper here](https://arxiv.org/abs/2506.20674)

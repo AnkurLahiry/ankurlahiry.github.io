@@ -11,6 +11,6 @@ citation: 'Tarek Ramadan, Ankur Lahiry, and Tanzima Z Islam. (2023). &quot;Novel
 
 A novel graph-based representation learning approach that transforms tabular HPC performance data into graphs, enabling Graph Neural Network (GNN) techniques to capture complex relationships between features and samples. Addresses regression problems in performance analytics, such as predicting application execution time.
 
-[Download paper here (arXiv)](https://ieeexplore.ieee.org/document/10460066/)
+**Authors:** Tarek Ramadan, Ankur Lahiry, and Tanzima Z Islam
 
-Recommended citation: Tarek Ramadan, Ankur Lahiry, and Tanzima Z Islam. (2023). "Novel Representation Learning Technique Using Graphs for Performance Analytics." *2023 International Conference on Machine Learning and Applications (ICMLA)*. IEEE, pp. 1311–1318.
+[View paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10460066/)
