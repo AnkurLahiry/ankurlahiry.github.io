@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download the latest cv from [here](https://ankurlahiry.github.io/files/Ankur_Lahiry_Resume.pdf)
+Download the latest cv from [here](https://ankurlahiry.github.io/files/Ankur_CV.pdf)

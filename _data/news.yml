@@ -4,21 +4,17 @@
 #   date:    "Mon YYYY" shown in the middle
 #   content: full description on the right (Markdown supported)
 
-- label: "Preprint @ arXiv"
-  date: "Apr 2026"
-  content: "New preprint: [**COMPASS: A Unified Decision-Intelligence System for Navigating Performance Trade-off in HPC**](https://arxiv.org/abs/2604.22688)"
+- label: "Award @ Texas State"
+  date: "Jun 2026"
+  content: "Awarded **Graduate Retention Scholarship** from Texas State University."
 
-- label: "Preprint @ arXiv"
+- label: "Paper @ Euro-Par Wksp'25"
   date: "Oct 2025"
-  content: "New preprint: [**A Distributed Framework for Causal Modeling of Performance Variability in GPU Traces**](https://arxiv.org/abs/2510.18300)"
+  content: "Paper accepted at **Euro-Par 2025 Workshop**: [A Distributed Framework for Causal Modeling of Performance Variability in GPU Traces](https://arxiv.org/abs/2510.18300)"
 
-- label: "Preprint @ arXiv"
+- label: "Poster @ SSDBM'25"
   date: "Jun 2025"
-  content: "New preprint: [**WANDER: An Explainable Decision-Support Framework for HPC**](https://arxiv.org/abs/2506.04049)"
-
-- label: "Preprint @ arXiv"
-  date: "Jun 2025"
-  content: "New preprint: [**Scalable GPU Performance Variability Analysis Framework**](https://arxiv.org/abs/2506.20674)"
+  content: "Poster presented at **SSDBM 2025**: [Scalable GPU Performance Variability Analysis Framework](https://arxiv.org/abs/2506.20674)"
 
 - label: "Paper @ COMPSAC'24"
   date: "Jul 2024"
@@ -28,9 +24,9 @@
   date: "Dec 2023"
   content: "Paper accepted at **ICMLA 2023**: [Novel Representation Learning Technique Using Graphs for Performance Analytics](https://ieeexplore.ieee.org/document/10460066/)"
 
-- label: "Paper @ SC'23"
+- label: "Poster @ SC'23"
   date: "Nov 2023"
-  content: "Paper accepted at **SC'23**: [Graph Based Anomaly Detection in Chimbuko: Feasible or Fallible?](https://sc23.supercomputing.org/proceedings/tech_poster/tech_poster_pages/rpost184.html)"
+  content: "Poster presented at **SC'23**: [Graph Based Anomaly Detection in Chimbuko: Feasible or Fallible?](https://sc23.supercomputing.org/proceedings/tech_poster/tech_poster_pages/rpost184.html)"
 
 - label: "Internship @ BNL"
   date: "Jun 2023"
