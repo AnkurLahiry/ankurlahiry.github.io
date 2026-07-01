@@ -19,13 +19,6 @@ author_profile: true
   margin-top: 2rem;
 }
 
-.pubs-section-title {
-  margin: 0 0 1rem;
-  font-family: 'DM Serif Display', serif;
-  font-size: 1.45rem;
-  color: #15212b;
-}
-
 .pubs-grid {
   display: grid;
   gap: 1.35rem;
@@ -190,45 +183,6 @@ author_profile: true
   font-size: 0.88rem;
 }
 
-.pub-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem;
-}
-
-.pub-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.52rem 0.8rem;
-  border-radius: 12px;
-  background: #edf4fb;
-  border: 1px solid #d6e4f0;
-  color: #184a72;
-  font-size: 0.84rem;
-  font-weight: 700;
-  text-decoration: none;
-  transition: background 0.18s ease, border-color 0.18s ease, color 0.18s ease;
-}
-
-.pub-link:hover {
-  background: #dfeefd;
-  border-color: #bfd7ee;
-  color: #0f3b61;
-}
-
-.pub-link--primary {
-  background: #17384d;
-  border-color: #17384d;
-  color: #fff;
-}
-
-.pub-link--primary:hover {
-  background: #1d4760;
-  border-color: #1d4760;
-  color: #fff;
-}
-
 @media (max-width: 840px) {
   .pub-title {
     font-size: 1.2rem;
@@ -238,7 +192,6 @@ author_profile: true
 
 <div class="pubs-shell">
   <section class="pubs-section">
-    <h3 class="pubs-section-title">Publications</h3>
     <div class="pubs-grid">
       {% for post in site.publications reversed %}
         {% assign status_class = post.status | default: "Research Paper" | downcase | replace: " ", "-" %}
@@ -270,12 +223,6 @@ author_profile: true
                   <li>{{ item }}</li>
                 {% endfor %}
               </ul>
-            {% endif %}
-
-            {% if post.paperurl %}
-              <div class="pub-links">
-                <a class="pub-link pub-link--primary" href="{{ post.paperurl }}">📄 Read Paper</a>
-              </div>
             {% endif %}
           </div>
         </article>
