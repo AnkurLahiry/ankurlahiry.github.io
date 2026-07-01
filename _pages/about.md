@@ -9,42 +9,43 @@ redirect_from:
 
 Hello! I'm **Ankur Lahiry**, a Ph.D. student in the **[Department of Computer Science](https://cs.txstate.edu)** at **[Texas State University](https://www.txst.edu)**, working in the **Per4ML Lab** under the supervision of **[Dr. Tanzima Islam](https://www.tanzimaislam.com/home)**.
 
-I specialize in **High Performance Computing (HPC)** and **Machine Learning**, focusing on building intelligent, scalable, and performance-aware systems. My academic journey is driven by the goal of bridging cutting-edge research with real-world impact.
+I specialize in **Machine Learning**, with a focus on **graph learning, explainable AI, decision intelligence, and scalable data-driven systems**. My current work applies these ideas to **high-performance computing (HPC)** and GPU performance data, using HPC as a demanding real-world domain for building robust ML systems with practical impact.
 
 ---
 
 ## 📝 Career Summary
 
-- 🎓 **Ph.D. Student** in Computer Science with a research focus on **HPC** and **Machine Learning** at Texas State University.  
-- 📈 Expertise in **graph-based modeling**, **performance analysis**, and **scalable computing systems**.  
-- 🤝 Collaborator with **U.S. national laboratories** on performance anomaly detection and scalable system design in High Performance Computing (HPC).  
-- 🧠 Passionate about performance-aware ML systems that drive efficiency in large-scale computational environments.  
+- 🎓 **Ph.D. Student** in Computer Science with a research focus on **Machine Learning systems**, **graph-based modeling**, and **explainable AI** at Texas State University.  
+- 📈 Expertise in **representation learning**, **performance modeling**, **causal reasoning**, and **scalable ML pipelines**.  
+- 🤝 Collaborator with **U.S. national laboratories**, applying ML methods to performance analytics and anomaly diagnosis in **HPC** environments.  
+- 🧠 Focused on building **interpretable and production-relevant ML systems** for complex, high-volume operational data.  
 - 💻 **5+ years of professional experience** in software engineering, with a focus on building large-scale social communication platforms and developing secure, real-time digital payment solutions.
 
 ---
 
 ## 🧠 Research Interests
 
-My research interests lie at the **intersection of intelligent algorithms and high-performance systems**.  
-
-- **High Performance Computing (HPC):**  
-  - Analyzing and optimizing resource utilization in large-scale architectures.  
-  - Developing scalable methods for anomaly detection and performance prediction.  
+My research interests lie at the **intersection of machine learning, graph-based reasoning, and large-scale systems data**.  
 
 - **Machine Learning (ML):**  
   - Designing adaptive, explainable, and data-driven models.  
-  - Using ML to identify complex patterns in performance data.  
+  - Building learning systems that remain reliable on large, noisy, operational datasets.  
 
 - **Graph Representation Learning:**  
   - Building graph-based models to capture complex relationships in system performance data.  
-  - Applying GNNs for anomaly classification in HPC workflows.  
+  - Applying GNNs for anomaly classification, behavior modeling, and structured prediction.  
 
 - **Decision Making & Explainable AI:**  
-  - Developing decision-support systems for navigating performance trade-offs in HPC.  
+  - Developing decision-support systems for navigating performance trade-offs in complex environments.  
   - Making ML-driven recommendations transparent and interpretable.  
 
-- **Anomaly Detection:**  
-  - Designing early-warning systems for performance degradation in large-scale computing systems.  
+- **Causal Modeling & Anomaly Detection:**  
+  - Designing methods for early detection, root-cause discovery, and robust diagnosis.  
+  - Moving beyond correlation toward more reliable explanations of system behavior.  
+
+- **Applied ML for HPC and GPU Systems:**  
+  - Using HPC and GPU traces as real-world testbeds for scalable ML, graph learning, and decision intelligence.  
+  - Developing practical monitoring and analytics workflows for large computing environments.  
 
 - **Synthetic Performance Data Generation:**  
   - Generating realistic synthetic traces to augment training data for performance models.  
@@ -56,10 +57,10 @@ My research interests lie at the **intersection of intelligent algorithms and hi
 
 ## 🌟 My Vision
 
-I’m passionate about **bridging research and real-world applications**.  
-My vision is to build **scalable, performance-aware ML systems** that optimize modern computing infrastructures and **make complex technology more transparent, explainable, and efficient**.
+I’m passionate about **bridging machine learning research and real-world applications**.  
+My vision is to build **scalable, interpretable, and decision-aware ML systems** that work reliably in complex operational settings and make advanced analytics more transparent and useful.
 
-I aim to contribute to high-impact research that drives innovation in **HPC, edge intelligence, and anomaly detection frameworks**—ultimately enabling faster, more efficient scientific discovery and real-time decision-making.
+I aim to contribute to high-impact work in **machine learning systems, explainable AI, graph learning, and intelligent analytics**, with **HPC and GPU platforms** serving as strong application domains for validating these ideas at scale.
 
 ---
 
@@ -140,4 +141,3 @@ I bring **over five years of hands-on software engineering experience**, working
   - Mobile App Development (iOS) and Cross-Platform Systems  
   - Scalable Architecture Design and Product Development  
   - Real-time Communication Platforms & Secure Payment Systems
-
