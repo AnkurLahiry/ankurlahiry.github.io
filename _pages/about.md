@@ -9,16 +9,16 @@ redirect_from:
 
 Hello! I'm **Ankur Lahiry**, a Ph.D. student in the **[Department of Computer Science](https://cs.txstate.edu)** at **[Texas State University](https://www.txst.edu)**, working in the **Per4ML Lab** under the supervision of **[Dr. Tanzima Islam](https://www.tanzimaislam.com/home)**.
 
-I specialize in **Machine Learning**, with a focus on **graph learning, explainable AI, decision intelligence, and scalable data-driven systems**. My current work applies these ideas to **high-performance computing (HPC)** and GPU performance data, using HPC as a demanding real-world domain for building robust ML systems with practical impact.
+I apply **machine learning** to improve **performance, efficiency, and scalability** in complex computing environments. My work centers on **graph learning**, **decision intelligence**, **causal analysis**, and **explainable AI**, with **HPC and GPU systems** serving as the applied domain for building and validating practical ML systems.
 
 ---
 
 ## 📝 Career Summary
 
-- 🎓 **Ph.D. Student** in Computer Science with a research focus on **Machine Learning systems**, **graph-based modeling**, and **explainable AI** at Texas State University.  
-- 📈 Expertise in **representation learning**, **performance modeling**, **causal reasoning**, and **scalable ML pipelines**.  
-- 🤝 Collaborator with **U.S. national laboratories**, applying ML methods to performance analytics and anomaly diagnosis in **HPC** environments.  
-- 🧠 Focused on building **interpretable and production-relevant ML systems** for complex, high-volume operational data.  
+- 🎓 **Ph.D. Student** in Computer Science focused on **machine learning systems**, **graph-based modeling**, and **explainable AI** at Texas State University.  
+- 📈 Expertise in **performance modeling**, **representation learning**, **causal reasoning**, and **scalable ML pipelines** for large operational datasets.  
+- 🤝 Collaborator with **Brookhaven** and **Argonne National Laboratories**, applying ML to performance analytics, reliability analysis, and anomaly diagnosis in **HPC** environments.  
+- 🧠 Focused on building **interpretable, production-relevant ML systems** for complex, high-volume computing data.  
 - 💻 **5+ years of professional experience** in software engineering, with a focus on building large-scale social communication platforms and developing secure, real-time digital payment solutions.
 
 ---

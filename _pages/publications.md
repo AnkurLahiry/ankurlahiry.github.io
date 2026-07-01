@@ -57,7 +57,7 @@ author_profile: true
   align-items: center;
   padding: 0.3rem 0.62rem;
   border-radius: 999px;
-  font-size: 0.72rem;
+  font-size: 0.66rem;
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -100,19 +100,19 @@ author_profile: true
   border-radius: 999px;
   background: #f3f6f8;
   color: #3e5160;
-  font-size: 0.74rem;
+  font-size: 0.7rem;
   font-weight: 700;
 }
 
 .pub-year {
   font-family: 'DM Mono', monospace;
-  font-size: 0.76rem;
+  font-size: 0.72rem;
   color: #788692;
 }
 
 .pub-title {
   margin: 0 0 0.45rem;
-  font-size: 1.35rem;
+  font-size: 1.22rem;
   line-height: 1.22;
   font-weight: 700;
 }
@@ -129,7 +129,7 @@ author_profile: true
 
 .pub-authors {
   margin: 0 0 0.65rem;
-  font-size: 0.87rem;
+  font-size: 0.82rem;
   line-height: 1.6;
   color: #5b6b76;
 }
@@ -148,22 +148,22 @@ author_profile: true
   border-radius: 999px;
   background: #f7fafc;
   border: 1px solid #d9e4ec;
-  font-size: 0.76rem;
+  font-size: 0.72rem;
   font-weight: 600;
   color: #415563;
 }
 
 .pub-summary {
   margin: 0 0 0.8rem;
-  font-size: 0.93rem;
-  line-height: 1.68;
+  font-size: 0.88rem;
+  line-height: 1.62;
   color: #334652;
 }
 
 .pub-contribution {
   margin: 0 0 0.85rem;
-  font-size: 0.9rem;
-  line-height: 1.65;
+  font-size: 0.86rem;
+  line-height: 1.58;
   color: #20303a;
 }
 
@@ -180,12 +180,12 @@ author_profile: true
 .pub-highlights li {
   margin-bottom: 0.28rem;
   line-height: 1.55;
-  font-size: 0.88rem;
+  font-size: 0.83rem;
 }
 
 @media (max-width: 840px) {
   .pub-title {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 }
 </style>

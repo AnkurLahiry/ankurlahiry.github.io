@@ -18,7 +18,7 @@ author_profile: true
 .news-year {
   margin: 2.5rem 0 1rem;
   font-family: 'DM Serif Display', serif;
-  font-size: 1.7rem;
+  font-size: 1.55rem;
   line-height: 1;
   color: #18222d;
 }
@@ -53,7 +53,7 @@ author_profile: true
   position: relative;
   z-index: 1;
   font-family: 'DM Mono', monospace;
-  font-size: 0.76rem;
+  font-size: 0.72rem;
   color: #6a7783;
   padding-top: 0.1rem;
 }
@@ -92,7 +92,7 @@ author_profile: true
   gap: 0.4rem;
   padding: 0.24rem 0.62rem;
   border-radius: 999px;
-  font-size: 0.68rem;
+  font-size: 0.64rem;
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -134,15 +134,15 @@ author_profile: true
 }
 
 .news-label {
-  font-size: 0.74rem;
+  font-size: 0.7rem;
   font-weight: 500;
   color: #7b8792;
 }
 
 .news-content {
-  font-size: 0.92rem;
+  font-size: 0.86rem;
   font-weight: 400;
-  line-height: 1.65;
+  line-height: 1.58;
   color: #31404c;
 }
 
@@ -163,7 +163,7 @@ author_profile: true
 
 @media (max-width: 700px) {
   .news-year {
-    font-size: 1.4rem;
+    font-size: 1.28rem;
   }
 
   .news-entry {
