@@ -6,6 +6,10 @@ tags:
   - iOS
   - Swift
   - SVG
+summary_points:
+  - "Introduces interactive SVG rendering in iOS using the Macaw library."
+  - "Shows how to detect and respond to taps on individual SVG elements."
+  - "Covers zoom, pan, and loading SVG assets from remote sources."
 ---
 
 *Originally published on [Medium](https://ankur098.medium.com/interaction-of-svg-images-in-your-ios-app-2285566df9a7) — December 6, 2019*

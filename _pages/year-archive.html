@@ -103,9 +103,14 @@ redirect_from:
 
 .blog-summary {
   margin: 0;
-  font-size: 0.93rem;
-  line-height: 1.68;
+  padding-left: 1rem;
   color: #334652;
+}
+
+.blog-summary li {
+  margin-bottom: 0.28rem;
+  font-size: 0.9rem;
+  line-height: 1.6;
 }
 
 @media (max-width: 840px) {
@@ -134,7 +139,13 @@ redirect_from:
           </div>
         {% endif %}
 
-        <p class="blog-summary">{{ post.content | markdownify | strip_html | strip_newlines | replace: "  ", " " | truncatewords: 34 }}</p>
+        {% if post.summary_points %}
+          <ul class="blog-summary">
+            {% for point in post.summary_points %}
+              <li>{{ point }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
       </article>
     {% endfor %}
   </div>

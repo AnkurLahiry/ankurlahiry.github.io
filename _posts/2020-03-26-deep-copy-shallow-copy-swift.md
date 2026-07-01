@@ -6,6 +6,10 @@ tags:
   - Swift
   - iOS
   - Programming
+summary_points:
+  - "Explains the difference between Swift value types and reference types."
+  - "Compares deep copy and shallow copy behavior in real application code."
+  - "Shows how `NSCopying` enables independent copies for class-based models."
 ---
 
 *Originally published on [Medium](https://ankur098.medium.com/understanding-deep-copy-and-shallow-copy-in-swift-8df201375611) — March 26, 2020*
