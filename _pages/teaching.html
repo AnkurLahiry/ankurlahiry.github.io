@@ -7,6 +7,125 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500;700&family=DM+Mono:wght@500&display=swap" rel="stylesheet">
+
+<style>
+.teaching-shell {
+  font-family: 'DM Sans', sans-serif;
+  color: #1b2730;
+}
+
+.teaching-grid {
+  display: grid;
+  gap: 1.35rem;
+}
+
+.teaching-card {
+  display: block;
+  padding: 1rem;
+  border: 1px solid #dfe7ed;
+  border-radius: 22px;
+  background: linear-gradient(180deg, #ffffff 0%, #f8fbfd 100%);
+  box-shadow: 0 16px 40px rgba(19, 33, 43, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.teaching-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 24px 48px rgba(19, 33, 43, 0.12);
+  border-color: #c6d6e2;
+}
+
+.teaching-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: 0.7rem;
+}
+
+.teaching-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.62rem;
+  border-radius: 999px;
+  background: #e8f0ff;
+  color: #1f5fd1;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.teaching-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.62rem;
+  border-radius: 999px;
+  background: #f3f6f8;
+  color: #3e5160;
+  font-size: 0.74rem;
+  font-weight: 700;
+}
+
+.teaching-term {
+  font-family: 'DM Mono', monospace;
+  font-size: 0.76rem;
+  color: #788692;
+}
+
+.teaching-title {
+  margin: 0 0 0.45rem;
+  font-size: 1.35rem;
+  line-height: 1.22;
+  font-weight: 700;
+}
+
+.teaching-title a {
+  color: #14212b;
+  text-decoration: none;
+  transition: color 0.18s ease;
+}
+
+.teaching-card:hover .teaching-title a {
+  color: #1d5cc6;
+}
+
+.teaching-venue {
+  margin: 0 0 0.65rem;
+  font-size: 0.87rem;
+  line-height: 1.6;
+  color: #5b6b76;
+}
+
+.teaching-copy {
+  margin: 0;
+  font-size: 0.93rem;
+  line-height: 1.68;
+  color: #334652;
+}
+
+@media (max-width: 840px) {
+  .teaching-title {
+    font-size: 1.2rem;
+  }
+}
+</style>
+
+<div class="teaching-shell">
+  <div class="teaching-grid">
+    {% for post in site.teaching reversed %}
+      <article class="teaching-card">
+        <div class="teaching-meta">
+          <span class="teaching-badge">{{ post.type | default: "Teaching" }}</span>
+          {% if post.location %}<span class="teaching-pill">{{ post.location }}</span>{% endif %}
+          <span class="teaching-term">{{ post.date | date: "%b %Y" }}</span>
+        </div>
+
+        <h3 class="teaching-title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h3>
+        {% if post.venue %}<p class="teaching-venue">{{ post.venue }}</p>{% endif %}
+        <p class="teaching-copy">{{ post.content | markdownify | strip_html | strip_newlines | replace: "  ", " " }}</p>
+      </article>
+    {% endfor %}
+  </div>
+</div>
