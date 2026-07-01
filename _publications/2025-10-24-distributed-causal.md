@@ -5,7 +5,7 @@ permalink: /publication/2025-10-24-distributed-causal
 excerpt: 'Distributed causal analysis framework for GPU traces that identifies root causes of performance variability in HPC workloads.'
 date: 2025-10-24
 venue: 'arXiv preprint arXiv:2510.18300'
-venue_short: 'Euro-Par Wksp'
+venue_short: 'Euro-par'
 status: 'Workshop'
 featured: true
 authors: 'Ankur Lahiry, Ayush Pokharel, Banooqa Banday, Seth Ockerman, Amal Gueroudji, Mohammad Zaeed, Tanzima Z Islam, and Line Pouchard'
