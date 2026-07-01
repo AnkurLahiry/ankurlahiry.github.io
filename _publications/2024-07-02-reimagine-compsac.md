@@ -6,7 +6,7 @@ excerpt: 'Graph-based application-performance representation for anomaly classif
 date: 2024-07-02
 venue: '2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)'
 venue_short: "COMPSAC'24"
-status: 'Conference'
+status: 'Research Paper'
 authors: 'Chase Phelps, Ankur Lahiry, Tanzima Z Islam, and Line C Pouchard'
 keywords:
   - Graph Learning

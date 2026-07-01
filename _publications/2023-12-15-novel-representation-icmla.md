@@ -6,7 +6,7 @@ excerpt: 'Graph representation learning method that transforms tabular HPC perfo
 date: 2023-12-15
 venue: '2023 International Conference on Machine Learning and Applications (ICMLA)'
 venue_short: "ICMLA'23"
-status: 'Conference'
+status: 'Research Paper'
 authors: 'Tarek Ramadan, Ankur Lahiry, and Tanzima Z Islam'
 keywords:
   - Graph Learning

@@ -80,6 +80,11 @@ author_profile: true
   color: #1f5fd1;
 }
 
+.pub-badge--research-paper {
+  background: #e8f0ff;
+  color: #1f5fd1;
+}
+
 .pub-badge--workshop {
   background: #fff3e5;
   color: #ad6500;
@@ -236,7 +241,7 @@ author_profile: true
     <h3 class="pubs-section-title">Publications</h3>
     <div class="pubs-grid">
       {% for post in site.publications reversed %}
-        {% assign status_class = post.status | default: "Conference" | downcase %}
+        {% assign status_class = post.status | default: "Research Paper" | downcase | replace: " ", "-" %}
         <article class="pub-card">
           <div class="pub-content">
             <div class="pub-meta">
