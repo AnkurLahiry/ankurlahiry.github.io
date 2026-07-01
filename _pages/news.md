@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News"
+title: ""
 permalink: /news/
 author_profile: true
 ---
@@ -18,7 +18,7 @@ author_profile: true
 .news-year {
   margin: 2.5rem 0 1rem;
   font-family: 'DM Serif Display', serif;
-  font-size: 2rem;
+  font-size: 1.7rem;
   line-height: 1;
   color: #18222d;
 }
@@ -26,9 +26,9 @@ author_profile: true
 .news-entry {
   position: relative;
   display: grid;
-  grid-template-columns: 108px 1fr;
+  grid-template-columns: 96px 1fr;
   column-gap: 1.5rem;
-  padding: 0 0 1.75rem;
+  padding: 0 0 1.45rem;
 }
 
 .news-entry:last-child {
@@ -38,7 +38,7 @@ author_profile: true
 .news-entry::before {
   content: "";
   position: absolute;
-  left: 100px;
+  left: 88px;
   top: 0.4rem;
   bottom: -0.4rem;
   width: 2px;
@@ -53,7 +53,7 @@ author_profile: true
   position: relative;
   z-index: 1;
   font-family: 'DM Mono', monospace;
-  font-size: 0.84rem;
+  font-size: 0.76rem;
   color: #6a7783;
   padding-top: 0.1rem;
 }
@@ -61,38 +61,38 @@ author_profile: true
 .news-date::after {
   content: "";
   position: absolute;
-  right: -1.03rem;
+  right: -0.93rem;
   top: 0.35rem;
-  width: 12px;
-  height: 12px;
+  width: 10px;
+  height: 10px;
   border-radius: 999px;
   background: #18222d;
-  box-shadow: 0 0 0 5px #f7fafc;
+  box-shadow: 0 0 0 4px #f7fafc;
 }
 
 .news-card {
   background: linear-gradient(180deg, #ffffff 0%, #f8fbfd 100%);
   border: 1px solid #e2e8ee;
   border-radius: 18px;
-  padding: 1rem 1.15rem 1rem 1.2rem;
+  padding: 0.9rem 1rem 0.9rem 1.05rem;
   box-shadow: 0 10px 30px rgba(22, 35, 48, 0.06);
 }
 
 .news-meta {
   display: flex;
   align-items: center;
-  gap: 0.65rem;
+  gap: 0.55rem;
   flex-wrap: wrap;
-  margin-bottom: 0.65rem;
+  margin-bottom: 0.5rem;
 }
 
 .news-badge {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  padding: 0.28rem 0.7rem;
+  padding: 0.24rem 0.62rem;
   border-radius: 999px;
-  font-size: 0.72rem;
+  font-size: 0.68rem;
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -134,15 +134,15 @@ author_profile: true
 }
 
 .news-label {
-  font-size: 0.8rem;
+  font-size: 0.74rem;
   font-weight: 500;
   color: #7b8792;
 }
 
 .news-content {
-  font-size: 1rem;
+  font-size: 0.92rem;
   font-weight: 400;
-  line-height: 1.75;
+  line-height: 1.65;
   color: #31404c;
 }
 
@@ -163,7 +163,7 @@ author_profile: true
 
 @media (max-width: 700px) {
   .news-year {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
   }
 
   .news-entry {
